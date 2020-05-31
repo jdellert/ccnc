@@ -1,0 +1,25 @@
+145 concepts: ['ASH', 'ASK (REQUEST)', 'BACK', 'BAT', 'BE ALIVE', 'BIG', 'BLACK', 'BLUNT', 'BONE', 'BREAK (DESTROY OR GET DESTROYED)', 'BREAST', 'BREATHE', 'BROTHER', 'BUSH', 'CARRY', 'CAVE', 'CHAFF (HUSK)', 'CHEST', 'CHEW', 'CLOTHES', 'COME', 'COOK (SOMETHING)', 'CRUSH', 'CRY', 'CURE', 'CUT', 'DANCE', 'DIE', 'DIG', 'DIRT', 'DIRTY', 'DRAW MILK', 'EAR', 'EARTH (SOIL)', 'EAT', 'EGG', 'EMBERS', 'EMBRACE', 'EYE', 'FAECES (EXCREMENT)', 'FAR', 'FART', 'FAT (ORGANIC SUBSTANCE)', 'FIND', 'FOAM', 'FOOD', 'FOOT', 'FOREHEAD', 'FULL', 'FURROW', 'GIVE', 'GO', 'GRANDCHILD', 'GRIND', 'GROW', 'HAIR', 'HAND', 'HAVE SEX', 'HEAD', 'HEAR', 'HERD (SOMETHING)', 'HOLE', 'HOT', 'HOUSE', 'HUSBAND', 'I', 'INTESTINES', 'LAUGH', 'LEFT', 'LICK', 'LIGHT (RADIATION)', 'LOOSE', 'LOUSE', 'MAIZE', 'MALE', 'MANY', 'MEAT', 'MUD', 'NARROW', 'NAVEL', 'NEST', 'NEW', 'NIGHT', 'NOSE', 'ONE', 'PERSON', 'PIN', 'PINCH', 'PLANT (VEGETATION)', 'POTATO', 'PREGNANT', 'PUT', 'RAIN (RAINING)', 'RED', 'RIPE', 'ROUGH', 'SAY', 'SEE', 'SEED', 'SEND', 'SEW', 'SHADE', 'SHOUT', 'SISTER', 'SLEEP', 'SOW SEEDS', 'SPEAK', 'SPICY', 'SPIN', 'SPIT', 'SPLIT', 'SPREAD OUT', 'STEP (VERB)', 'STONE', 'STRENGTH', 'SWALLOW', 'TELL', 'TESTICLES', 'THAT', 'THICK', 'THORN', 'THREAD', 'THRESH', 'THROW', 'TIE', 'TREE', 'TUMBLE (FALL DOWN)', 'TWIST', 'TWO', 'UNTIE', 'UP', 'VAGINA', 'WALK', 'WASH', 'WATER', 'WEAVE', 'WET', 'WHERE', 'WHISTLE', 'WHITE', 'WOOD', 'WOOL', 'WORM', 'YES', 'YOU']
+English:
+Found cluster of size 2:
+  "brɛst" assigned to concept CHEST
+  "tʃɛst" assigned to concept CHEST
+Found cluster of size 2:
+  "skriːm" assigned to concept SHOUT
+  "kraɪ" assigned to concept CRY
+Found cluster of size 2:
+  "krɪŋkl" assigned to concept FURROW
+  "rɪŋkl" assigned to concept FURROW
+Found cluster of size 2:
+  "graɪnd" assigned to concept GRIND
+  "greɪt" assigned to concept GRIND
+Found cluster of size 2:
+  "θrɛʃ" assigned to concept THRESH
+  "ʃrɛd" assigned to concept GRIND
+Found cluster of size 2:
+  "rʌf" assigned to concept ROUGH
+  "rʌgɪd" assigned to concept ROUGH
+Found cluster of size 2:
+  "lʌmbə" assigned to concept WOOD
+  "tɪmbə" assigned to concept WOOD
+p-value: 0.319
+z-score: 0.1953312483568528

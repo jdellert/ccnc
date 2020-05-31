@@ -1,0 +1,640 @@
+Test for any two-segment subsequences:
+Found cluster of size 5:
+  "kanka" assigned to concept ROAST OR FRY
+  "anka" assigned to concept ROAST OR FRY
+  "panku" assigned to concept COOK (SOMETHING)
+  "manta" assigned to concept SPREAD OUT
+  "yanu" assigned to concept COOK (SOMETHING)
+Found cluster of size 5:
+  "iʎawa" assigned to concept WEAVE
+  "šawa" assigned to concept TIE
+  "awʎi" assigned to concept WEAVE
+  "awa" assigned to concept WEAVE
+  "kawpu" assigned to concept TWIST
+Found cluster of size 4:
+  "rumi" assigned to concept STONE
+  "ruru" assigned to concept EGG
+  "runtu" assigned to concept EGG
+  "quruta" assigned to concept TESTICLES
+Found cluster of size 4:
+  "katʂu" assigned to concept CHEW
+  "kani" assigned to concept BITE
+  "kaštu" assigned to concept CHEW
+  "katʂka" assigned to concept CHEW
+Found cluster of size 4:
+  "wiksu" assigned to concept TWIST
+  "wiqru" assigned to concept TWIST
+  "wištu" assigned to concept TWIST
+  "wikʎu" assigned to concept TWIST
+Found cluster of size 4:
+  "čuʎpi" assigned to concept MAIZE
+  "čučuqa" assigned to concept MAIZE
+  "čuqʎu" assigned to concept MAIZE
+Found cluster of size 4:
+  "čapra" assigned to concept TOUCH
+  "apa" assigned to concept CARRY
+  "apta" assigned to concept GRASP
+  "hapi" assigned to concept GET
+Found cluster of size 4:
+  "wiši" assigned to concept POUR
+  "witu" assigned to concept CHOP
+  "wišču" assigned to concept THROW
+  "wika" assigned to concept THROW
+Found cluster of size 3:
+  "ʎupi" assigned to concept SKIN
+  "ʎuču" assigned to concept PULL OFF (SKIN)
+  "ʎušti" assigned to concept PEEL
+Found cluster of size 3:
+  "saqma" assigned to concept HIT
+  "maqa" assigned to concept HIT
+  "taqʎa" assigned to concept HIT
+Found cluster of size 3:
+  "tipʎa" assigned to concept PEEL
+  "šipra" assigned to concept PEEL
+  "kipu" assigned to concept TIE
+Found cluster of size 3:
+  "čuta" assigned to concept PULL
+  "rutu" assigned to concept CUT
+  "kuta" assigned to concept GRIND
+Found cluster of size 3:
+  "raki" assigned to concept SEPARATE
+  "akʎa" assigned to concept CHOOSE
+  "waka" assigned to concept SPLIT
+Found cluster of size 3:
+  "ñawi" assigned to concept EYE
+  "qawa" assigned to concept LOOK
+  "šawintu" assigned to concept FRUIT
+Found cluster of size 3:
+  "ʎuqʎa" assigned to concept MUD
+  "ʎuši" assigned to concept MUD
+  "ʎuta" assigned to concept MUD
+Found cluster of size 3:
+  "akapa" assigned to concept SMALL
+  "takša" assigned to concept SMALL
+  "wakin" assigned to concept SOME
+Found cluster of size 3:
+  "waqta" assigned to concept SIDE
+  "qaqʎa" assigned to concept FACE
+  "paqtʂa" assigned to concept FOREHEAD
+Found cluster of size 3:
+  "aypa" assigned to concept GIVE
+  "haywa" assigned to concept GIVE
+  "aypu" assigned to concept GIVE
+Found cluster of size 3:
+  "ʎušpi" assigned to concept SLIP
+  "ʎučka" assigned to concept SLIP
+  "ʎutpi" assigned to concept SLIP
+Found cluster of size 3:
+  "aqa" assigned to concept GRIND
+  "waqta" assigned to concept THRESH
+  "qaqu" assigned to concept RUB
+Found cluster of size 3:
+  "wata" assigned to concept TIE
+  "waska" assigned to concept ROPE
+  "wanku" assigned to concept BUNDLE
+Found cluster of size 3:
+  "musya" assigned to concept FEEL
+  "mutki" assigned to concept SMELL (PERCEIVE)
+  "muča" assigned to concept KISS
+Found cluster of size 3:
+  "tuʎu" assigned to concept BONE
+  "kuʎu" assigned to concept TREE TRUNK
+  "muʎi" assigned to concept TREE
+Found cluster of size 3:
+  "mirkapa" assigned to concept FOOD
+  "miku" assigned to concept EAT
+  "miʎpu" assigned to concept SWALLOW
+Found cluster of size 2:
+  "manča" assigned to concept FEAR (BE AFRAID)
+  "wana" assigned to concept FEAR (BE AFRAID)
+Found cluster of size 2:
+  "rakra" assigned to concept EAT
+  "rata" assigned to concept FALL
+Found cluster of size 2:
+  "kunka" assigned to concept VOICE
+  "tunquri" assigned to concept THROAT
+Found cluster of size 2:
+  "puywan" assigned to concept LUNG
+  "pusuqu" assigned to concept FOAM
+Found cluster of size 2:
+  "maki" assigned to concept HAND
+  "maka" assigned to concept ARM
+Found cluster of size 2:
+  "musqu" assigned to concept DREAM
+  "muspa" assigned to concept DREAM
+Found cluster of size 2:
+  "akakʎu" assigned to concept BIRD
+Found cluster of size 2:
+  "tupu" assigned to concept MEASURE
+  "yupa" assigned to concept COUNT
+Found cluster of size 2:
+  "pata" assigned to concept FLAT
+  "pampa" assigned to concept FLAT
+Found cluster of size 2:
+  "ʎañu" assigned to concept THIN (OF SHAPE OF OBJECT)
+  "ʎapča" assigned to concept FLAT
+Found cluster of size 2:
+  "tipa" assigned to concept PIERCE
+  "timpi" assigned to concept PIERCE
+Found cluster of size 2:
+  "pata" assigned to concept FOLD
+  "paki" assigned to concept BREAK (DESTROY OR GET DESTROYED)
+Found cluster of size 2:
+  "huqa" assigned to concept GATHER
+  "huñu" assigned to concept GATHER
+Found cluster of size 2:
+  "puqu" assigned to concept RIPE
+  "puka" assigned to concept RED
+Found cluster of size 2:
+  "saʎqa" assigned to concept PLAIN
+  "aʎpa" assigned to concept EARTH (SOIL)
+Found cluster of size 2:
+  "tinki" assigned to concept JOIN
+  "tinku" assigned to concept MEET
+Found cluster of size 2:
+  "wanka" assigned to concept STONE OR ROCK
+  "ranra" assigned to concept STONE OR ROCK
+Found cluster of size 2:
+  "qapa" assigned to concept SHOUT
+  "qaya" assigned to concept SHOUT
+Found cluster of size 2:
+  "maña" assigned to concept ASK (REQUEST)
+  "maska" assigned to concept LOOK FOR
+Found cluster of size 2:
+  "čapu" assigned to concept MIX
+  "tapši" assigned to concept SHAKE
+Found cluster of size 2:
+  "ʎasa" assigned to concept HEAVY
+  "sasa" assigned to concept DIFFICULT
+Found cluster of size 2:
+  "kawsa" assigned to concept BE ALIVE
+  "tʂawa" assigned to concept RAW
+Found cluster of size 2:
+  "pukyu" assigned to concept SPRING OR WELL
+  "pukru" assigned to concept HOLE
+Found cluster of size 2:
+  "ʎuqi" assigned to concept STICK
+  "čuqu" assigned to concept POST
+Found cluster of size 2:
+  "uʎqu" assigned to concept MALE
+  "uʎu" assigned to concept PENIS
+Found cluster of size 2:
+  "kaña" assigned to concept BURN (SOMETHING)
+  "kamča" assigned to concept ROAST OR FRY
+Found cluster of size 2:
+  "rapra" assigned to concept LEAF
+  "čapra" assigned to concept BRANCH
+Found cluster of size 2:
+  "učuk" assigned to concept SMALL
+  "čuri" assigned to concept CHILD (YOUNG HUMAN)
+Found cluster of size 2:
+  "itana" assigned to concept NETTLE
+  "išanka" assigned to concept NETTLE
+Found cluster of size 2:
+  "punki" assigned to concept SWELLING
+  "pušʎu" assigned to concept BLISTER
+Found cluster of size 2:
+  "qanra" assigned to concept DIRTY
+  "yana" assigned to concept BLACK
+Found cluster of size 2:
+  "ʎiki" assigned to concept TEAR (SHRED)
+  "šika" assigned to concept SCRAPE
+Found cluster of size 2:
+  "kaʎana" assigned to concept PAN
+  "manka" assigned to concept POT
+Found cluster of size 2:
+  "sinku" assigned to concept ROLL
+  "kinču" assigned to concept WRAP
+Found cluster of size 2:
+  "mini" assigned to concept WEAVE
+  "miʎu" assigned to concept SPIN
+Found cluster of size 2:
+  "muti" assigned to concept MAIZE
+  "muruču" assigned to concept MAIZE
+Found cluster of size 2:
+  "čunčuʎi" assigned to concept INTESTINES
+Found cluster of size 2:
+  "ʎapi" assigned to concept SQUEEZE
+  "qapi" assigned to concept SQUEEZE
+Found cluster of size 2:
+  "kama" assigned to concept ORDER
+  "katʂa" assigned to concept SEND
+Found cluster of size 2:
+  "raki" assigned to concept JUG
+  "waku" assigned to concept JUG
+Found cluster of size 2:
+  "mašta" assigned to concept SPREAD OUT
+  "tašnu" assigned to concept POUR
+Found cluster of size 2:
+  "hirpu" assigned to concept POUR
+  "hitʂa" assigned to concept POUR
+Found cluster of size 2:
+  "kuya" assigned to concept LOVE
+  "kuši" assigned to concept HAPPY
+Found cluster of size 2:
+  "masa" assigned to concept SPREAD OUT
+  "paska" assigned to concept UNTIE
+Found cluster of size 2:
+  "tʂanka" assigned to concept LEG
+  "tʂaki" assigned to concept FOOT
+Found cluster of size 2:
+  "ura" assigned to concept DOWN OR BELOW
+  "ruri" assigned to concept INSIDE
+Found cluster of size 2:
+  "wiswi" assigned to concept FAT (ORGANIC SUBSTANCE)
+  "wira" assigned to concept FAT (ORGANIC SUBSTANCE)
+Found cluster of size 2:
+  "čaqču" assigned to concept SPLASH
+  "čaʎa" assigned to concept SPLASH
+Found cluster of size 2:
+  "takʎa" assigned to concept PLOUGH
+  "čakma" assigned to concept PLOUGH
+Found cluster of size 2:
+  "sutʂka" assigned to concept SLIP
+  "sutʂu" assigned to concept SLIP
+Found cluster of size 2:
+  "maqči" assigned to concept WASH
+  "mayʎa" assigned to concept WASH
+Found cluster of size 2:
+  "kuku" assigned to concept CROUCH
+  "kumu" assigned to concept CROUCH
+Found cluster of size 2:
+  "wamra" assigned to concept CHILD (YOUNG HUMAN)
+  "wawa" assigned to concept CHILD (YOUNG HUMAN)
+Found cluster of size 2:
+  "pašña" assigned to concept GIRL
+  "šipas" assigned to concept GIRL
+Found cluster of size 2:
+  "uqi" assigned to concept GREY
+  "suqu" assigned to concept GREY
+Found cluster of size 2:
+  "kaʎka" assigned to concept GRAVEL
+  "kaʎki" assigned to concept GRAVEL
+Found cluster of size 2:
+  "wanti" assigned to concept DISEASE
+  "nana" assigned to concept PAIN
+Found cluster of size 2:
+  "qunqur" assigned to concept KNEE
+Found cluster of size 2:
+  "piʎpintu" assigned to concept BUTTERFLY
+Found cluster of size 2:
+  "čiqta" assigned to concept SPLIT
+  "čiʎpi" assigned to concept SPLIT
+Found cluster of size 2:
+  "qura" assigned to concept GRASS
+  "yura" assigned to concept PLANT (VEGETATION)
+Found cluster of size 2:
+  "muru" assigned to concept SEED
+  "muhu" assigned to concept SEED
+Found cluster of size 2:
+  "qina" assigned to concept FLUTE
+  "pinkuʎu" assigned to concept FLUTE
+Found cluster of size 2:
+  "qasa" assigned to concept ICE
+  "rasu" assigned to concept SNOW
+Found cluster of size 2:
+  "atʂpi" assigned to concept SCRATCH
+  "ratʂi" assigned to concept SCRATCH
+p-value: 0.0
+z-score: 5.646403531058612
+
+Test for any two-segment prefixes:
+Found cluster of size 4:
+  "katʂu" assigned to concept CHEW
+  "kani" assigned to concept BITE
+  "kaštu" assigned to concept CHEW
+  "katʂka" assigned to concept CHEW
+Found cluster of size 4:
+  "wiksu" assigned to concept TWIST
+  "wiqru" assigned to concept TWIST
+  "wištu" assigned to concept TWIST
+  "wikʎu" assigned to concept TWIST
+Found cluster of size 4:
+  "wiši" assigned to concept POUR
+  "witu" assigned to concept CHOP
+  "wišču" assigned to concept THROW
+  "wika" assigned to concept THROW
+Found cluster of size 3:
+  "ʎupi" assigned to concept SKIN
+  "ʎuču" assigned to concept PULL OFF (SKIN)
+  "ʎušti" assigned to concept PEEL
+Found cluster of size 3:
+  "rumi" assigned to concept STONE
+  "ruru" assigned to concept EGG
+  "runtu" assigned to concept EGG
+Found cluster of size 3:
+  "ʎuqʎa" assigned to concept MUD
+  "ʎuši" assigned to concept MUD
+  "ʎuta" assigned to concept MUD
+Found cluster of size 3:
+  "kanka" assigned to concept ROAST OR FRY
+  "kaña" assigned to concept BURN (SOMETHING)
+  "kamča" assigned to concept ROAST OR FRY
+Found cluster of size 3:
+  "čuʎpi" assigned to concept MAIZE
+  "čučuqa" assigned to concept MAIZE
+  "čuqʎu" assigned to concept MAIZE
+Found cluster of size 3:
+  "ʎušpi" assigned to concept SLIP
+  "ʎučka" assigned to concept SLIP
+  "ʎutpi" assigned to concept SLIP
+Found cluster of size 3:
+  "wata" assigned to concept TIE
+  "waska" assigned to concept ROPE
+  "wanku" assigned to concept BUNDLE
+Found cluster of size 3:
+  "musya" assigned to concept FEEL
+  "mutki" assigned to concept SMELL (PERCEIVE)
+  "muča" assigned to concept KISS
+Found cluster of size 3:
+  "mašta" assigned to concept SPREAD OUT
+  "masa" assigned to concept SPREAD OUT
+  "manta" assigned to concept SPREAD OUT
+Found cluster of size 3:
+  "mirkapa" assigned to concept FOOD
+  "miku" assigned to concept EAT
+  "miʎpu" assigned to concept SWALLOW
+Found cluster of size 2:
+  "rakra" assigned to concept EAT
+  "rata" assigned to concept FALL
+Found cluster of size 2:
+  "puywan" assigned to concept LUNG
+  "pusuqu" assigned to concept FOAM
+Found cluster of size 2:
+  "maki" assigned to concept HAND
+  "maka" assigned to concept ARM
+Found cluster of size 2:
+  "musqu" assigned to concept DREAM
+  "muspa" assigned to concept DREAM
+Found cluster of size 2:
+  "pata" assigned to concept FLAT
+  "pampa" assigned to concept FLAT
+Found cluster of size 2:
+  "ʎañu" assigned to concept THIN (OF SHAPE OF OBJECT)
+  "ʎapča" assigned to concept FLAT
+Found cluster of size 2:
+  "tipa" assigned to concept PIERCE
+  "timpi" assigned to concept PIERCE
+Found cluster of size 2:
+  "pata" assigned to concept FOLD
+  "paki" assigned to concept BREAK (DESTROY OR GET DESTROYED)
+Found cluster of size 2:
+  "huqa" assigned to concept GATHER
+  "huñu" assigned to concept GATHER
+Found cluster of size 2:
+  "puqu" assigned to concept RIPE
+  "puka" assigned to concept RED
+Found cluster of size 2:
+  "tinki" assigned to concept JOIN
+  "tinku" assigned to concept MEET
+Found cluster of size 2:
+  "taka" assigned to concept HIT
+  "taqʎa" assigned to concept HIT
+Found cluster of size 2:
+  "šipra" assigned to concept PEEL
+  "šika" assigned to concept SCRAPE
+Found cluster of size 2:
+  "qapa" assigned to concept SHOUT
+  "qaya" assigned to concept SHOUT
+Found cluster of size 2:
+  "kuču" assigned to concept CUT
+  "kuta" assigned to concept GRIND
+Found cluster of size 2:
+  "maña" assigned to concept ASK (REQUEST)
+  "maska" assigned to concept LOOK FOR
+Found cluster of size 2:
+  "pukyu" assigned to concept SPRING OR WELL
+  "pukru" assigned to concept HOLE
+Found cluster of size 2:
+  "uʎqu" assigned to concept MALE
+  "uʎu" assigned to concept PENIS
+Found cluster of size 2:
+  "watʂi" assigned to concept STAB
+  "waka" assigned to concept SPLIT
+Found cluster of size 2:
+  "kaʎwa" assigned to concept WEAVE
+  "kawpu" assigned to concept TWIST
+Found cluster of size 2:
+  "punki" assigned to concept SWELLING
+  "pušʎu" assigned to concept BLISTER
+Found cluster of size 2:
+  "manka" assigned to concept POT
+  "maqma" assigned to concept POT
+Found cluster of size 2:
+  "mini" assigned to concept WEAVE
+  "miʎu" assigned to concept SPIN
+Found cluster of size 2:
+  "muti" assigned to concept MAIZE
+  "muruču" assigned to concept MAIZE
+Found cluster of size 2:
+  "qaqu" assigned to concept RUB
+  "qapi" assigned to concept SQUEEZE
+Found cluster of size 2:
+  "kama" assigned to concept ORDER
+  "katʂa" assigned to concept SEND
+Found cluster of size 2:
+  "hirpu" assigned to concept POUR
+  "hitʂa" assigned to concept POUR
+Found cluster of size 2:
+  "taʎi" assigned to concept POUR
+  "tašnu" assigned to concept POUR
+Found cluster of size 2:
+  "apa" assigned to concept CARRY
+  "apta" assigned to concept GRASP
+Found cluster of size 2:
+  "kuya" assigned to concept LOVE
+  "kuši" assigned to concept HAPPY
+Found cluster of size 2:
+  "tʂanka" assigned to concept LEG
+  "tʂaki" assigned to concept FOOT
+Found cluster of size 2:
+  "aypa" assigned to concept GIVE
+  "aypu" assigned to concept GIVE
+Found cluster of size 2:
+  "wiswi" assigned to concept FAT (ORGANIC SUBSTANCE)
+  "wira" assigned to concept FAT (ORGANIC SUBSTANCE)
+Found cluster of size 2:
+  "čaqču" assigned to concept SPLASH
+  "čaʎa" assigned to concept SPLASH
+Found cluster of size 2:
+  "sutʂka" assigned to concept SLIP
+  "sutʂu" assigned to concept SLIP
+Found cluster of size 2:
+  "awʎi" assigned to concept WEAVE
+  "awa" assigned to concept WEAVE
+Found cluster of size 2:
+  "maqči" assigned to concept WASH
+  "mayʎa" assigned to concept WASH
+Found cluster of size 2:
+  "kuku" assigned to concept CROUCH
+  "kumu" assigned to concept CROUCH
+Found cluster of size 2:
+  "wamra" assigned to concept CHILD (YOUNG HUMAN)
+  "wawa" assigned to concept CHILD (YOUNG HUMAN)
+Found cluster of size 2:
+  "kinču" assigned to concept WRAP
+  "kipu" assigned to concept TIE
+Found cluster of size 2:
+  "kaʎka" assigned to concept GRAVEL
+  "kaʎki" assigned to concept GRAVEL
+Found cluster of size 2:
+  "čiqta" assigned to concept SPLIT
+  "čiʎpi" assigned to concept SPLIT
+Found cluster of size 2:
+  "čari" assigned to concept GRASP
+  "čapra" assigned to concept TOUCH
+Found cluster of size 2:
+  "muru" assigned to concept SEED
+  "muhu" assigned to concept SEED
+p-value: 0.0
+z-score: 5.751779121500466
+
+Test for any two-segment suffixes:
+Found cluster of size 4:
+  "čuta" assigned to concept PULL
+  "čiqta" assigned to concept SPLIT
+  "waqta" assigned to concept THRESH
+  "kuta" assigned to concept GRIND
+Found cluster of size 4:
+  "iʎawa" assigned to concept WEAVE
+  "kaʎwa" assigned to concept WEAVE
+  "awa" assigned to concept WEAVE
+  "šawa" assigned to concept TIE
+Found cluster of size 3:
+  "tamya" assigned to concept RAIN (PRECIPITATION)
+  "čuya" assigned to concept WATER
+  "upya" assigned to concept DRINK
+Found cluster of size 3:
+  "musya" assigned to concept FEEL
+  "uya" assigned to concept HEAR
+  "punya" assigned to concept SMELL (STINK)
+Found cluster of size 3:
+  "kay" assigned to concept THIS
+  "pay" assigned to concept HE OR SHE OR IT
+  "čay" assigned to concept THAT
+Found cluster of size 3:
+  "qura" assigned to concept GRASS
+  "rapra" assigned to concept LEAF
+  "čapra" assigned to concept BRANCH
+Found cluster of size 3:
+  "ʎiki" assigned to concept TEAR (SHRED)
+  "raki" assigned to concept SEPARATE
+  "paki" assigned to concept BREAK (DESTROY OR GET DESTROYED)
+Found cluster of size 3:
+  "aku" assigned to concept CHEW
+  "miku" assigned to concept EAT
+  "kutʂku" assigned to concept CHEW
+Found cluster of size 3:
+  "aypa" assigned to concept GIVE
+  "yupa" assigned to concept COUNT
+  "apa" assigned to concept CARRY
+Found cluster of size 3:
+  "kanka" assigned to concept ROAST OR FRY
+  "anka" assigned to concept ROAST OR FRY
+  "matʂka" assigned to concept ROAST OR FRY
+Found cluster of size 3:
+  "muru" assigned to concept SEED
+  "kiru" assigned to concept TOOTH
+  "ruru" assigned to concept EGG
+Found cluster of size 3:
+  "pušpu" assigned to concept BOIL (SOMETHING)
+  "timpu" assigned to concept BOIL (OF LIQUID)
+  "čupu" assigned to concept BOIL (OF SKIN)
+Found cluster of size 2:
+  "hunta" assigned to concept FULL
+  "rakta" assigned to concept THICK
+Found cluster of size 2:
+  "ri" assigned to concept GO
+  "puri" assigned to concept WALK
+Found cluster of size 2:
+  "pukyu" assigned to concept SPRING OR WELL
+  "mayu" assigned to concept RIVER
+Found cluster of size 2:
+  "anaku" assigned to concept CLOTHES
+  "unku" assigned to concept CLOTHES
+Found cluster of size 2:
+  "akakʎu" assigned to concept BIRD
+  "uʎu" assigned to concept PENIS
+Found cluster of size 2:
+  "šuntu" assigned to concept GATHER
+  "qutu" assigned to concept PILE UP
+Found cluster of size 2:
+  "šunqu" assigned to concept HEART
+  "qasqu" assigned to concept CHEST
+Found cluster of size 2:
+  "paqta" assigned to concept JOIN
+  "wata" assigned to concept TIE
+Found cluster of size 2:
+  "rutu" assigned to concept CUT
+  "witu" assigned to concept CHOP
+Found cluster of size 2:
+  "qara" assigned to concept PEEL
+  "šipra" assigned to concept PEEL
+Found cluster of size 2:
+  "tanqa" assigned to concept PUSH
+  "aqa" assigned to concept GRIND
+Found cluster of size 2:
+  "qunču" assigned to concept GRIND
+  "kuču" assigned to concept CUT
+Found cluster of size 2:
+  "ʎasa" assigned to concept HEAVY
+  "sasa" assigned to concept DIFFICULT
+Found cluster of size 2:
+  "amaru" assigned to concept SNAKE
+  "kuru" assigned to concept WORM
+Found cluster of size 2:
+  "riku" assigned to concept SEE
+  "tinku" assigned to concept MEET
+Found cluster of size 2:
+  "wikʎu" assigned to concept TWIST
+  "miʎu" assigned to concept SPIN
+Found cluster of size 2:
+  "wiqru" assigned to concept TWIST
+  "piruru" assigned to concept SPIN
+Found cluster of size 2:
+  "qiwi" assigned to concept TWIST
+  "arwi" assigned to concept TWIST
+Found cluster of size 2:
+  "yuri" assigned to concept BE BORN
+  "tari" assigned to concept FIND
+Found cluster of size 2:
+  "tanta" assigned to concept BREAD
+  "šaqta" assigned to concept FOOD
+Found cluster of size 2:
+  "amuqʎu" assigned to concept SWELLING
+  "pušʎu" assigned to concept BLISTER
+Found cluster of size 2:
+  "čiʎpi" assigned to concept SPLIT
+  "tipi" assigned to concept CUT
+Found cluster of size 2:
+  "ʎaqʎa" assigned to concept CARVE
+  "aʎa" assigned to concept DIG
+Found cluster of size 2:
+  "čuʎpi" assigned to concept MAIZE
+  "upi" assigned to concept MAIZE
+Found cluster of size 2:
+  "aqaʎi" assigned to concept INTESTINES
+  "čunčuʎi" assigned to concept INTESTINES
+Found cluster of size 2:
+  "ʎapi" assigned to concept SQUEEZE
+  "qapi" assigned to concept SQUEEZE
+Found cluster of size 2:
+  "sutʂka" assigned to concept SLIP
+  "ʎučka" assigned to concept SLIP
+Found cluster of size 2:
+  "ʎušpi" assigned to concept SLIP
+  "ʎutpi" assigned to concept SLIP
+Found cluster of size 2:
+  "šuti" assigned to concept NAME
+  "inti" assigned to concept SUN
+Found cluster of size 2:
+  "maqči" assigned to concept WASH
+  "muqči" assigned to concept WASH
+Found cluster of size 2:
+  "ašta" assigned to concept BRING
+  "apta" assigned to concept GRASP
+Found cluster of size 2:
+  "mašta" assigned to concept SPREAD OUT
+  "manta" assigned to concept SPREAD OUT
+p-value: 0.101
+z-score: 1.2617105594688665

@@ -1,0 +1,132 @@
+147 shared concepts: ['ASH', 'ASK (REQUEST)', 'BACK', 'BAT', 'BE ALIVE', 'BIG', 'BLACK', 'BLUNT', 'BONE', 'BREAK (DESTROY OR GET DESTROYED)', 'BREAST', 'BREATHE', 'BROTHER', 'BROTHER-IN-LAW', 'BUSH', 'CARRY', 'CAVE', 'CHAFF (HUSK)', 'CHEST', 'CHEW', 'CLOTHES', 'COME', 'COOK (SOMETHING)', 'CRUSH', 'CRY', 'CURE', 'CUT', 'DANCE', 'DIE', 'DIG', 'DIRT', 'DIRTY', 'DRAW MILK', 'EAR', 'EARTH (SOIL)', 'EAT', 'EGG', 'EMBERS', 'EMBRACE', 'EYE', 'FAECES (EXCREMENT)', 'FAR', 'FART', 'FAT (ORGANIC SUBSTANCE)', 'FIND', 'FOAM', 'FOOD', 'FOOT', 'FOREHEAD', 'FULL', 'FURROW', 'GIVE', 'GO', 'GRANDCHILD', 'GRIND', 'GRINDSTONE', 'GROW', 'HAIR', 'HAND', 'HAVE SEX', 'HEAD', 'HEAR', 'HERD (SOMETHING)', 'HOLE', 'HOT', 'HOUSE', 'HUSBAND', 'I', 'INTESTINES', 'LAUGH', 'LEFT', 'LICK', 'LIGHT (RADIATION)', 'LOOSE', 'LOUSE', 'MAIZE', 'MALE', 'MANY', 'MEAT', 'MUD', 'NARROW', 'NAVEL', 'NEST', 'NEW', 'NIGHT', 'NOSE', 'ONE', 'PERSON', 'PIN', 'PINCH', 'PLANT (VEGETATION)', 'POTATO', 'PREGNANT', 'PUT', 'RAIN (RAINING)', 'RED', 'RIPE', 'ROUGH', 'SAY', 'SEE', 'SEED', 'SEND', 'SEW', 'SHADE', 'SHOUT', 'SISTER', 'SLEEP', 'SOW SEEDS', 'SPEAK', 'SPICY', 'SPIN', 'SPIT', 'SPLIT', 'SPREAD OUT', 'STEP (VERB)', 'STONE', 'STRENGTH', 'SWALLOW', 'TELL', 'TESTICLES', 'THAT', 'THICK', 'THORN', 'THREAD', 'THRESH', 'THROW', 'TIE', 'TREE', 'TUMBLE (FALL DOWN)', 'TWIST', 'TWO', 'UNTIE', 'UP', 'VAGINA', 'WALK', 'WASH', 'WATER', 'WEAVE', 'WET', 'WHERE', 'WHISTLE', 'WHITE', 'WOOD', 'WOOL', 'WORM', 'YES', 'YOU']
+Proto-Quechua:
+Found cluster of size 5:
+  "iʎawa" assigned to concept WEAVE
+  "šawa" assigned to concept TIE
+  "awʎi" assigned to concept WEAVE
+  "awa" assigned to concept WEAVE
+  "kawpu" assigned to concept TWIST
+Found cluster of size 4:
+  "rumi" assigned to concept STONE
+  "ruru" assigned to concept EGG
+  "runtu" assigned to concept EGG
+  "quruta" assigned to concept TESTICLES
+Found cluster of size 4:
+  "čuʎpi" assigned to concept MAIZE
+  "čučuqa" assigned to concept MAIZE
+  "čuqʎu" assigned to concept MAIZE
+Found cluster of size 4:
+  "wiksu" assigned to concept TWIST
+  "wiqru" assigned to concept TWIST
+  "wištu" assigned to concept TWIST
+  "wikʎu" assigned to concept TWIST
+Found cluster of size 3:
+  "katʂu" assigned to concept CHEW
+  "kaštu" assigned to concept CHEW
+  "katʂka" assigned to concept CHEW
+Found cluster of size 3:
+  "panku" assigned to concept COOK (SOMETHING)
+  "manta" assigned to concept SPREAD OUT
+  "yanu" assigned to concept COOK (SOMETHING)
+Found cluster of size 3:
+  "aypa" assigned to concept GIVE
+  "haywa" assigned to concept GIVE
+  "aypu" assigned to concept GIVE
+Found cluster of size 3:
+  "ʎuqʎa" assigned to concept MUD
+  "ʎuši" assigned to concept MUD
+  "ʎuta" assigned to concept MUD
+Found cluster of size 3:
+  "mirkapa" assigned to concept FOOD
+  "miku" assigned to concept EAT
+  "miʎpu" assigned to concept SWALLOW
+Found cluster of size 2:
+  "aku" assigned to concept CHEW
+  "rakra" assigned to concept EAT
+Found cluster of size 2:
+  "muti" assigned to concept MAIZE
+  "muruču" assigned to concept MAIZE
+Found cluster of size 2:
+  "čunčuʎi" assigned to concept INTESTINES
+Found cluster of size 2:
+  "tuʎu" assigned to concept BONE
+  "muʎi" assigned to concept TREE
+Found cluster of size 2:
+  "masa" assigned to concept SPREAD OUT
+  "paska" assigned to concept UNTIE
+Found cluster of size 2:
+  "qapa" assigned to concept SHOUT
+  "qaya" assigned to concept SHOUT
+Found cluster of size 2:
+  "paki" assigned to concept BREAK (DESTROY OR GET DESTROYED)
+  "waka" assigned to concept SPLIT
+Found cluster of size 2:
+  "qanra" assigned to concept DIRTY
+  "yana" assigned to concept BLACK
+Found cluster of size 2:
+  "puqu" assigned to concept RIPE
+  "puka" assigned to concept RED
+Found cluster of size 2:
+  "wiswi" assigned to concept FAT (ORGANIC SUBSTANCE)
+  "wira" assigned to concept FAT (ORGANIC SUBSTANCE)
+Found cluster of size 2:
+  "maqči" assigned to concept WASH
+  "mayʎa" assigned to concept WASH
+Found cluster of size 2:
+  "muru" assigned to concept SEED
+  "muhu" assigned to concept SEED
+Found cluster of size 2:
+  "aqa" assigned to concept GRIND
+  "waqta" assigned to concept THRESH
+Found cluster of size 2:
+  "mini" assigned to concept WEAVE
+  "miʎu" assigned to concept SPIN
+Found cluster of size 2:
+  "rutu" assigned to concept CUT
+  "kuta" assigned to concept GRIND
+Found cluster of size 2:
+  "čiqta" assigned to concept SPLIT
+  "čiʎpi" assigned to concept SPLIT
+Found cluster of size 2:
+  "wišču" assigned to concept THROW
+  "wika" assigned to concept THROW
+p-value: 0.0
+z-score: 5.361650521740796
+         
+Proto-Aymara:
+Found cluster of size 3:
+  "hiwa" assigned to concept DIE
+  "liwa" assigned to concept GIVE
+  "iwa" assigned to concept CARRY
+Found cluster of size 2:
+  "čilu" assigned to concept TIE
+  "čika" assigned to concept TIE
+Found cluster of size 2:
+  "t'impu" assigned to concept PIN
+  "t'iri" assigned to concept PIN
+Found cluster of size 2:
+  "haynu" assigned to concept HUSBAND
+  "haqi" assigned to concept PERSON
+Found cluster of size 2:
+  "turu" assigned to concept BLUNT
+  "muru" assigned to concept BLUNT
+Found cluster of size 2:
+  "hanq'u" assigned to concept WHITE
+  "qʰana" assigned to concept LIGHT (RADIATION)
+Found cluster of size 2:
+  "čačaku" assigned to concept TREE
+  "ačuma" assigned to concept PLANT (VEGETATION)
+Found cluster of size 2:
+  "kururu" assigned to concept NAVEL
+Found cluster of size 2:
+  "k'aka" assigned to concept SPLIT
+  "k'apa" assigned to concept BREAK (DESTROY OR GET DESTROYED)
+Found cluster of size 2:
+  "saya" assigned to concept SAY
+  "naya" assigned to concept I
+Found cluster of size 2:
+  "pʰawi" assigned to concept SPIN
+  "pʰala" assigned to concept TWIST
+p-value: 0.329
+z-score: 0.1766904551489988
+
